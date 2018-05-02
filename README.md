@@ -1,2 +1,2 @@
-# Time_Series_Analysis_ARIMA
-Time Series analysis with Python and ARIMA model to forecast Bitcoin price
+#Time_Series_Analysis_and_Predictive_Modelling_with_ARIMA_Models
+Time Series analysis, forecast Bitcoin price with linear ARIMA models
