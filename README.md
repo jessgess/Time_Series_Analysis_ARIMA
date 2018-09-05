@@ -1,2 +1,10 @@
-# Time_Series_Analysis_and_Predictive_Modelling_with_ARIMA_Models
-Time Series analysis, forecast Bitcoin price with linear ARIMA models
+# Time Series Analysis and Predictive Modelling with ARIMA Models
+
+Forecasting Bitcoin price with linear ARIMA models
+
+## Depndencies:
+
+* statsmodel 
+* sklearn
+
+Install statsmodel from [here](https://www.statsmodels.org/stable/index.html) and sklearn from [here](http://scikit-learn.org/stable/install.html)
